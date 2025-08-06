@@ -1,20 +1,6 @@
 Mais qu’est-ce que C Quoi Le Jeu🤔?
 
-C Quoi Le Jeu est un site web créé par 2 élèves de 3ème, dont le principe est de deviner le nom d'un jeu vidéo à partir d'une image. CQLJ est déjà disponible (uniquement sur ordinateur et tablette, la taille des téléphones n’est pas adaptée) en version Beta et sortira officiellement le 8 juin.
-
-Les co-créateurs🤝:
-
-Nous sommes deux collégiens à avoir créé ce projet : Théo GRAZIANO et Elie SAIDANE LEMERCIER. "Nous voulons créer un jeu gratuit, sans publicités, accessible à tous et respectueux des données."
-
-Un peu d'histoire📜...
-
-Date de création : 8 avril 2025 : Le projet commence lors d’une discussion entre amis au collège, et abouti à une version minimaliste.
-
-Sortie de la version Beta : 4 mai 2025 : Au bout de trois semaines, le site sort en version Beta afin que les gens puissent tester.
-
-Mais qu’est-ce que C Quoi Le Jeu🤔?
-
-C Quoi Le Jeu est un site web créé par 2 élèves de 3ème, dont le principe est de deviner le nom d'un jeu vidéo à partir d'une image. CQLJ est disponible sur "https://www.cquoilejeu.fr".
+C Quoi Le Jeu est un site web créé par 2 élèves de 3ème, dont le principe est de deviner le nom d'un jeu vidéo à partir d'une image. CQLJ est disponible sur "http://www.cquoilejeu.fr".
 
 Les co-créateurs🤝:
 
@@ -32,7 +18,7 @@ Date de sortie : 8 juin 2025
 
 Nos liens🔗:
 
-Lien vers C Quoi Le Jeu : https://www.cquoilejeu.fr
+Lien vers C Quoi Le Jeu : http://www.cquoilejeu.fr
 
 Lien vers notre Bento : https://bento.me/cquoilejeu
 
